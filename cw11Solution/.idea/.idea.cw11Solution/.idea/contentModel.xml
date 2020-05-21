@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\JolyMoly\AppData\local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\JolyMoly\AppData\local\JetBrains\Rider2020.1\resharper-host\local\Transient\ReSharperHost\v201\SolutionCaches\_cw11Solution.2035704621.00" t="ExcludeRecursive" />
+    <e p="C:\Users\JolyMoly\AppData\Roaming\JetBrains\Rider2020.1\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\JolyMoly\AppData\Roaming\JetBrains\Rider2020.1\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\JolyMoly\Desktop\cw11Proj\cw11Solution" t="IncludeFlat">
+      <e p="cw11Solution" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="Clinic.cs" t="Include" />
+          <e p="WeatherForecastController.cs" t="Include" />
+        </e>
+        <e p="cw11Solution.csproj" t="IncludeRecursive" />
+        <e p="IenExtension.cs" t="Include" />
+        <e p="Migrations" t="Include">
+          <e p="20200521133721_AddedAllTables.cs" t="Include" />
+          <e p="20200521133721_AddedAllTables.Designer.cs" t="Include" />
+          <e p="DataBaseContextModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="DataBaseContext.cs" t="Include" />
+          <e p="Doctor.cs" t="Include" />
+          <e p="Medicament.cs" t="Include" />
+          <e p="Patient.cs" t="Include" />
+          <e p="Prescription.cs" t="Include" />
+          <e p="Prescription_Medicament.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="cw11Solution.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Services" t="Include">
+          <e p="DbService.cs" t="Include" />
+          <e p="IDbservice.cs" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="WeatherForecast.cs" t="Include" />
+      </e>
+      <e p="cw11Solution.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
